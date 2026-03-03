@@ -278,26 +278,6 @@ npm run test:coverage
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
-
-**Muuo Emmanuel**  
-Registration Number: SC211/1197/2021  
-Murang'a University of Technology
-
-## 🆘 Support
-
-For support and questions:
-- Create an issue in the repository
-- Contact: [your-email@example.com]
-
-## 🙏 Acknowledgments
-
-- Murang'a University of Technology
-- Dr. Rachael Ndung'u (Supervisor)
-- Healthcare professionals who provided insights
-- Open source community for tools and libraries
-
----
-
 **Emergency Hotline: 911**  
+
 *For immediate medical emergencies, always call emergency services first.*
